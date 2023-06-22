@@ -4,7 +4,7 @@ This repositoy will use the following book "OCA: Oracle Certified Associate Java
 <br>This book is an excellent source of information for those looking to learn about the most advanced aspects of Java 
 <br>and how to apply them in the real world. 
 <br>
-<br>Throughout the project, we will use the content of this book to delve into different areas of Java and explore new functionalities. 
+<br>Throughout the project, I will use the content of this book to delve into different areas of Java and explore new functionalities. 
 <br>I hope that by the end of the project, I will be able to improve my experience and skills in software development and Java programming.
 
 
