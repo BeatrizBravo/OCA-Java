@@ -15,5 +15,5 @@ This repositoy will use the following book "OCA: Oracle Certified Associate Java
 - Chapter 2 Operators and Statements 
 - Chapter 3 Core Java APIs 
 - Chapter 4 Methods and Encapsulation
-- Chapter 5 Class Design
+- 🚧 Chapter 5 Class Design
 - Chapter 6 Exceptions
