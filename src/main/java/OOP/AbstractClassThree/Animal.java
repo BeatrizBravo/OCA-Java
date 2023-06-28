@@ -2,14 +2,23 @@ package OOP.AbstractClassThree;
 
 
 public abstract class Animal {
-    //can hold a commund method
+    //
      void eat(){
          System.out.println("Animal");
      }
 
-    /*
-     */
-     */
+    public static void main(String[] args) {
+        Animal d = new Dog();
+        d.eat();
+        /*
+        * we are colling the parent and child at the same time
+        *print::
+        * Animal
+        * Dog
+        * */
+
+    }
+
 }
 
 class Dog extends Animal {
@@ -17,8 +26,7 @@ class Dog extends Animal {
 
     public void eat() {
 
-        // If we want to access to the parent method
-        // we use super
+
         super.eat();
         System.out.println("Dog");
 
