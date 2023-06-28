@@ -5,7 +5,13 @@ public class Animal {
 }
 
 interface sleep{
-   // void sleep(); //abstract method that is going be override
+   // void sleep(); //abstract method that is going be override#
+
+    /*
+    abstrac interface ya es intrisicamente
+    final never can be use here
+     */
+
     default void sleep(){
         System.out.println("ñññññ");
         }
