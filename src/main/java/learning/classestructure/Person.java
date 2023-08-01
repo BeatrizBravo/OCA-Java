@@ -1,18 +1,23 @@
-package org.example;
+package learning.classestructure;
 
 /**
  * Java does not require that the class be public
  * could be public class Persona or class Persona
  *
- * Two classes in the same file => at most one of the classes in the file is allowed to be public.
+ * Two classes in the **same file** => at most one of the classes in the file is allowed to be public.
  * public class match with the name of the file.
  */
-public class Persona {
+
+/*
+* field = variable
+* method = functions
+* */
+public class Person {
     //atribute + methods = members of the class
      public  String name; //atribute   //PUBLIC =  signify that this method may be called from other classes.
 
 
-    public String getName() { //method
+    public String getName() { //method that get the variable you given this case name
         return name;            //The return type is String
     }
 
@@ -21,26 +26,12 @@ public class Persona {
     }
 
 
-    //The full declaration of a method is called a method signature
+    //The full declaration of a method is called a "method signature"
 }
 
-class PersonaOne{ //only one can be public
+class PersonaOne{ //only one can be public in a file in this case is Person, line 15
 
 }
 
-
-//Comments
-// comment until end of line
-
-/* Multiple
- * line comment
- */
-
-
-/**               =>Javadoc tool -> write before a method as a documentation
- * Javadoc multiple-line comment
- * @author BB
- *
- */
 
 
