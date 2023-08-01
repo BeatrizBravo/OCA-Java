@@ -25,10 +25,10 @@ This repositoy will use the following book "OCA: Oracle Certified Associate Java
 
 
   - [Java Class Structure](https://github.com/BeatrizBravo/OCA-Java/blob/JavaBuildingBlocks-JavaClassStructure/src/main/java/org/example/Persona.java)
-  - Fields and Methods 
+  - Fields and Methods (variables and funciots/procedures => members of the class)
   - [Comments](https://github.com/BeatrizBravo/OCA-Java/blob/main/Resources/ch1/comments.md) 
-  - Classes vs. Files 
-  - Writing a main() Method 
+  - Classes vs. Files (a file can have more than 1 class, but only  one class is allowed to be public)
+  - [Writing a main() Method](https://github.com/BeatrizBravo/OCA-Java/blob/JavaBuildingBlocks-main/src/main/java/org/example/Main.java)
   - Understanding Package Declarations and Imports 
   - Wildcards 
   - Redundant Imports 
