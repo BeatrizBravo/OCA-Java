@@ -24,7 +24,7 @@ This repositoy will use the following book "OCA: Oracle Certified Associate Java
 <a id="item-one"></a>
 
 
-  - Java Class Structure 
+  - [Java Class Structure] (https://github.com/BeatrizBravo/OCA-Java/blob/JavaBuildingBlocks-JavaClassStructure/src/main/java/org/example/Persona.java)
   - Fields and Methods 
   - [Comments](https://github.com/BeatrizBravo/OCA-Java/blob/main/Resources/ch1/comments.md) 
   - Classes vs. Files 
