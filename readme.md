@@ -14,7 +14,7 @@ This repositoy will use the following book "OCA: Oracle Certified Associate Java
 - 🚧  Chapter 1 Java Building Blocks
     - Java Class Structure 
     - Fields and Methods 
-    - Comments 
+    - [Comments](https://github.com/BeatrizBravo/OCA-Java/blob/main/Resources/ch1/comments.md) 
     - Classes vs. Files 
     - Writing a main() Method 
     - Understanding Package Declarations and Imports 
