@@ -17,6 +17,7 @@ This repositoy will use the following book "OCA: Oracle Certified Associate Java
 - [Methods and Encapsulation](#item-four)
 - [Class Design](#item-five)
 - [Exceptions](#item-six)
+- [Exercises for loose topics](https://github.com/BeatrizBravo/oca-Java-by-subjects/tree/master/src/main/java)
 
 # Introduction
 <a id="item-one"></a>
